@@ -48,7 +48,6 @@ Created with ❤️ by [ParamountDev](https://t.me/paramount1_dev)
 
 ## ⭐ Support / Orders  
 Need custom plugins or help with **TelegramChatPDev**?  
-📬 Contact me on [Telegram](https://t.me/paramount1_dev) or [FunPay](funpay.com/uk/users/14397429/).
 
 ---
 
